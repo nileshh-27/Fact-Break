@@ -4,3 +4,14 @@ Real-Time Citation Hallucination Detection and Prevention in Retrieval Augumente
 
 
 By attaching lightweight PyTorch forward hooks into the internal layers of an autoregressive transformer, FACT-BREAK monitors the coordination between the model's **Multi-Head Attention** (context reading) and **Feed-Forward Networks** (parametric recall). When pathway decoupling indicates an ungrounded citation, the system immediately trips a circuit breaker to halt token decoding before the hallucinated text reaches the user.
+
+
+
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
+
+...
+
+## License
+
+Copyright (c) 2026 Nilesh Reddy Karri. All rights reserved.  
+Proprietary and confidential. Access and use permitted solely under explicit written authorization.
