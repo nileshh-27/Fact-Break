@@ -13,5 +13,7 @@ By attaching lightweight PyTorch forward hooks into the internal layers of an au
 ## License
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
 
-Copyright (c) 2026 Nilesh Reddy Karri. All rights reserved.  
-Proprietary and confidential. Access and use permitted solely under explicit written authorization.
+Copyright (c) 2026 Nilesh Reddy Karri, Hyderabad, Telangana, India, 500013. All rights reserved.  
+Proprietary and confidential.
+Access and use permitted solely under explicit written/verbal authorization only.
+For any queries please raise an issue or contact the author via email. 
