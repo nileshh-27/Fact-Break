@@ -7,11 +7,11 @@ By attaching lightweight PyTorch forward hooks into the internal layers of an au
 
 
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
 
-...
+
 
 ## License
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
 
 Copyright (c) 2026 Nilesh Reddy Karri. All rights reserved.  
 Proprietary and confidential. Access and use permitted solely under explicit written authorization.
