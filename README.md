@@ -16,4 +16,4 @@ By attaching lightweight PyTorch forward hooks into the internal layers of an au
 Copyright (c) 2026 Nilesh Reddy Karri, Hyderabad, Telangana, India, 500013. All rights reserved.  
 Proprietary and confidential.
 Access and use permitted solely under explicit written/verbal authorization only.
-For any queries please raise an issue or contact the author via email. 
+For any queries please raise an issue or contact the me via email. 
