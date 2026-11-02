@@ -317,8 +317,3 @@ For permissions or licensing enquiries, please contact the author.
 
 ---
 
-<p align="center">
-  <b>FACT-BREAK — Detect. Interrupt. Ground.</b>
-  <br/>
-  Mechanistic Runtime Protection for Retrieval-Augmented Generation.
-</p>
