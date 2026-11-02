@@ -322,11 +322,3 @@ For permissions or licensing enquiries, please contact the author.
   <br/>
   Mechanistic Runtime Protection for Retrieval-Augmented Generation.
 </p>
-
-## License
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
-
-Copyright (c) 2026 Nilesh Reddy Karri. All rights reserved.  
-Proprietary and confidential.
-Access and use permitted solely under explicit written/verbal authorization only.
-For any queries please raise an issue or contact the me via email. 
